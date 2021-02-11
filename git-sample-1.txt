@@ -1,0 +1,9 @@
+git init - Done
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rohithbhumar/git-sample-repo.git
+git push -u origin main
+
+git config user.name "robinfr@gmail.com"
+git config password ""
